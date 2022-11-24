@@ -1,0 +1,15 @@
+Um die Suche anzupassen, bitte über den Link auf die entsprechende Website gehen und dort den Suchfilter anpassen und erneute Suche durchführen. Dann den Link aus dem Browser (mit den aktualisierten Kriterien) kopieren und in dieser txt.-Datei ersetzen. Achten Sie dabei darauf, dass die Leerzeichen und Doppelpunkt zwischen dem Firmennamen und der url bestehen bleiben!
+
+urls:
+sul : https://www.stadtundland.de/Wohnungssuche/Wohnungssuche.php?form=stadtundland-expose-search-1.form&sp%3AroomsFrom%5B%5D=2&sp%3AroomsTo%5B%5D=3&sp%3ArentPriceFrom%5B%5D=&sp%3ArentPriceTo%5B%5D=1000&sp%3AareaFrom%5B%5D=60&sp%3AareaTo%5B%5D=&sp%3Afeature%5B%5D=__last__&action=submit
+gewobag : https://www.gewobag.de/fuer-mieter-und-mietinteressenten/mietangebote/?bezirke%5B%5D=friedrichshain-kreuzberg&bezirke%5B%5D=friedrichshain-kreuzberg-friedrichshain&bezirke%5B%5D=friedrichshain-kreuzberg-kreuzberg&bezirke%5B%5D=neukoelln&bezirke%5B%5D=neukoelln-britz&bezirke%5B%5D=neukoelln-buckow&bezirke%5B%5D=tempelhof-schoeneberg-schoeneberg&nutzungsarten%5B%5D=wohnung&gesamtmiete_von=&gesamtmiete_bis=&gesamtflaeche_von=&gesamtflaeche_bis=&zimmer_von=2&zimmer_bis=3&keinwbs=1&sort-by=recent
+degewo : https://immosuche.degewo.de/de/search?size=10&page=1&property_type_id=1&categories%5B%5D=1&lat=&lon=&area=&address%5Bstreet%5D=&address%5Bcity%5D=&address%5Bzipcode%5D=&address%5Bdistrict%5D=&district=46%2C+29&property_number=&price_switch=true&price_radio=1200-warm&price_from=&price_to=&qm_radio=custom&qm_from=&qm_to=&rooms_radio=null&rooms_from=&rooms_to=&wbs_required=&order=rent_total_without_vat_asc
+ibw : https://inberlinwohnen.de/wohnungsfinder/?ONr32657-Hj
+gwnk : https://www.gwneukoelln.de/wohnungen/wohnungsangebote/count.htm
+
+negativ-Ausdruecke:
+gewobag = Es konnten keine passenden Angebote gefunden werden!
+sul = Ihre Suche ergab keine Treffer.
+degewo = 0 Treffer anzeigen
+ibw = Wir haben 0 Wohnungen für Sie gefunden
+gwnk = 0
